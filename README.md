@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Before start project, generate github access token
+Copy .env from .env.example and replace "github access token" with real one.
 
 ## Available Scripts
 
