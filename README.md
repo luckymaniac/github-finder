@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Before start project, generate github access token
+Before start project, generate github access token.\
 Copy .env from .env.example and replace "github access token" with real one.
 
 ## Available Scripts
